@@ -18,6 +18,10 @@ AuraSec AI is an advanced, automated network monitoring system designed to detec
 ### AI Integration
 ![AI Integration](AI%20integration.png)
 
+### Mobile App View
+![Mobile Dashboard 1](Mobile%20Dashboard%201.png)
+![Mobile Dashboard 2](Mobile%20Dashboard%202.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
